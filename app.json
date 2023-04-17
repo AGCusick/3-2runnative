@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "3-2runnative",
+    "slug": "3-2runnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
